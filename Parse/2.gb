@@ -1,0 +1,235 @@
+LOCUS       NM_001012720            1463 bp    mRNA    linear   PRI 27-JAN-2013
+DEFINITION  Homo sapiens retinal G protein coupled receptor (RGR), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001012720
+VERSION     NM_001012720.1  GI:61744453
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1463)
+  AUTHORS   Osei-Sarfo,K., Martello,L., Ibrahim,S. and Pellicer,A.
+  TITLE     The human Rgr oncogene is overexpressed in T-cell malignancies and
+            induces transformation by acting as a GEF for Ras and Ral
+  JOURNAL   Oncogene 30 (34), 3661-3671 (2011)
+   PUBMED   21441953
+  REMARK    GeneRIF: conclude that the ability of hRgr to activate both Ral and
+            Ras is responsible for its transformation-inducing phenotype and it
+            could be an important contributor in the development of some T-cell
+            malignancies
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U14910.1 and AC022389.9.
+            
+            Summary: This gene encodes a putative retinal G-protein coupled
+            receptor. The gene is a member of the opsin subfamily of the 7
+            transmembrane, G-protein coupled receptor 1 family. Like other
+            opsins which bind retinaldehyde, it contains a conserved lysine
+            residue in the seventh transmembrane domain. The protein acts as a
+            photoisomerase to catalyze the conversion of all-trans-retinal to
+            11-cis-retinal. The reverse isomerization occurs with rhodopsin in
+            retinal photoreceptor cells. The protein is exclusively expressed
+            in tissue adjacent to retinal photoreceptor cells, the retinal
+            pigment epithelium and Mueller cells. This gene may be associated
+            with autosomal recessive and autosomal dominant retinitis
+            pigmentosa (arRP and adRP, respectively). Alternative splicing
+            results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (2) uses an alternate in-frame
+            splice site in the 5' coding region, compared to variant 1,
+            resulting in a shorter protein (isoform 2), compared to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##RefSeq-Attributes-START##
+            Transcript_exon_combination_evidence :: U14910.1, BG820359.1
+                                                    [ECO:0000332]
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-496               U14910.1           1-496
+            497-497             AC022389.9         111371-111371
+            498-978             U14910.1           498-978
+            979-1463            AC022389.9         117118-117602
+FEATURES             Location/Qualifiers
+     source          1..1463
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q23"
+     gene            1..1463
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /note="retinal G protein coupled receptor"
+                     /db_xref="GeneID:5995"
+                     /db_xref="HGNC:9990"
+                     /db_xref="MIM:600342"
+     exon            1..117
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=1
+     misc_feature    24..26
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /note="upstream in-frame stop codon"
+     CDS             39..914
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     RGR-opsin; RPE retinal G-protein coupled receptor;
+                     RPE-retinal G protein-coupled receptor"
+                     /codon_start=1
+                     /product="RPE-retinal G protein-coupled receptor isoform
+                     2"
+                     /protein_id="NP_001012738.1"
+                     /db_xref="GI:61744454"
+                     /db_xref="GeneID:5995"
+                     /db_xref="HGNC:9990"
+                     /db_xref="MIM:600342"
+                     /translation="MAETSALPTGFGELEVLAVGMVLLVEALSGLSLNTLTIFSFCKT
+                     PELRTPCHLLVLSLALADSGISLNALVAATSSLLRRWPYGSDGCQAHGFQGFVTALAS
+                     ICSSAAIAWGRYHHYCTRSQLAWNSAVSLVLFVWLSSAFWAALPLLGWGHYDYEPLGT
+                     CCTLDYSKGDRNFTSFLFTMSFFNFAMPLFITITSYSLMEQKLGKSGHLQVNTTLPAR
+                     TLLLGWGPYAILYLYAVIADVTSISPKLQMVPALIAKMVPTINAINYALGNEMVCRGI
+                     WQCLSPQKREKDRTK"
+     misc_feature    84..146
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    195..257
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    312..374
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    429..491
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    564..626
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    696..758
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     misc_feature    780..842
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P47804.1);
+                     transmembrane region"
+     exon            118..274
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=2
+     exon            275..396
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=3b
+     exon            397..550
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=4
+     exon            551..668
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=5
+     exon            669..782
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=6
+     exon            783..1463
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /inference="alignment:Splign"
+                     /number=7
+     STS             903..1110
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /standard_name="STS-U14910"
+                     /db_xref="UniSTS:34249"
+     STS             944..1147
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /standard_name="WI-18987"
+                     /db_xref="UniSTS:14697"
+     STS             944..1120
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /standard_name="RH70572"
+                     /db_xref="UniSTS:14698"
+     polyA_signal    1166..1171
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+     polyA_site      1190
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     polyA_site      1414
+                     /gene="RGR"
+                     /gene_synonym="RP44"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 agagacagct gggccactgg cagtgaggga gagtgaggat ggcagagacc agtgccctgc
+       61 ccactggctt cggggagctc gaggtgctgg ctgtggggat ggtgctactg gtggaagctc
+      121 tctccggtct cagcctcaat accctgacca tcttctcttt ctgcaagacc ccggagctgc
+      181 ggactccctg ccacctactg gtgctgagct tggctcttgc ggacagtggg atcagcctga
+      241 atgccctcgt tgcagccaca tccagccttc tccggcgctg gccctacggc tcggacggct
+      301 gccaggctca cggcttccag ggctttgtga cagcgttggc cagcatctgc agcagtgcag
+      361 ccatcgcatg ggggcgttat caccactact gcacccgtag ccagctggcc tggaactcag
+      421 ccgtctctct ggtgctcttc gtgtggctgt cttctgcctt ctgggcagct ctgccccttc
+      481 tgggttgggg tcactacgac tatgagccac tggggacatg ctgcaccctg gactactcca
+      541 agggggacag aaacttcacc agcttcctct tcaccatgtc cttcttcaac ttcgccatgc
+      601 ccctcttcat cacgatcact tcctacagtc tcatggagca gaaactgggg aagagtggcc
+      661 atctccaggt aaacaccact ctgccagcaa ggacgctgct gctcggctgg ggcccctatg
+      721 ccatcctgta tctatacgca gtcatcgcag acgtgacttc catctccccc aaactgcaga
+      781 tggtgcccgc cctcattgcc aaaatggtgc ccacgatcaa tgccatcaac tatgccctgg
+      841 gcaatgagat ggtctgcagg ggaatctggc agtgcctctc accgcagaag agggagaagg
+      901 accgaaccaa gtgagcctgc caccctggag tgagccccag gccaggaggc tgttccagga
+      961 gtcctgccca gcagcctcag tggccaagcc cagacactca cccaccttcc ccagtggccc
+     1021 cgtggatcct ggtcctaggc tggacacagg attcagaaag acaccaggct gcacagaaag
+     1081 agccagatgg acctgagtgt cggtcacagc cccctacact caaggctgag aggcctcagg
+     1141 aaagtcattc ctttttaaaa ataataataa atgtaagggg gtacagtgca gttttgttac
+     1201 atggatagat tgcctagtgg tgaagtctgg gcttttagtg taaccatcac cctaataata
+     1261 tacgttgtac ccattaagtt atttctcatc cctcaccccc tcccaccttg tcacccttct
+     1321 gagtctccaa tgtctattat tccacactcc atgtccacgt gtacacatta tttagctccc
+     1381 acttacaagt gagaacatgt ggtatttgac tttctgtttt tgagttattt cacttaaaat
+     1441 aatgacctcc agtttcatcc atg
+//
+
